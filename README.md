@@ -1,12 +1,10 @@
 ## Hi, I'm Andrea Ayala. Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/aayala32/aayala32.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Check out how active I am on [Github](https://github.com/aayala32)! 
 
-### Markdown
+### About ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business. 
 ```markdown
 Syntax highlighted code block
 
