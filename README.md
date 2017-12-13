@@ -28,7 +28,7 @@ Currently making a switch into Statistics with a minor in Business, I intend on 
 
 
 [Link](url) and ![Image](src)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![ME](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=yr0xu2r7kd3w#attid%253Datt_16048fa764961016_0.1)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
