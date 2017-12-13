@@ -27,9 +27,9 @@ I study at the University of Illinois, currently majoring in Computer Science an
 Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea. 
 
 if(interested in contacting me) {
-find me on [facebook](https://www.facebook.com/andreagugu.ayala)
+-find me on [facebook](https://www.facebook.com/andreagugu.ayala)
 or
-email be as shown below
+-email be as shown below
 }
 
 Contact me at: **aayala32@illinois.edu**
