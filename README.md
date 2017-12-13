@@ -1,4 +1,4 @@
-## Hi, I'm Andrea Ayala. Welcome to my page!
+]# Hi, I'm Andrea Ayala. Welcome to my page!
 
 Check out how active I am on [Github](https://github.com/aayala32)! 
 
@@ -8,8 +8,8 @@ I study at the University of Illinois, currently majoring in Computer Science an
 ```markdown
 1st Semester Course Involvement | 2nd Semester Course Involvement
 ------------ | -------------
-CS 125 | STATS 200
-Math 221 | Math 231
+[CS 125](https://cs125.cs.illinois.edu/)      | [STATS 200](http://catalog.illinois.edu/courses-of-instruction/stat/)
+Math 221 | [Math 231](https://math.illinois.edu/resources/department-resources/syllabus-math-231)
 Psych 100 | RHET 105
 Music 130 | ANSC 110
 | MACS 101
