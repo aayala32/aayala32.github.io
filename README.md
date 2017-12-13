@@ -27,8 +27,7 @@ I study at the University of Illinois, currently majoring in Computer Science an
 Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea. 
 
 
-[Link](url) and ![Image](src)
-![ME](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=yr0xu2r7kd3w#attid%253Datt_16048fa764961016_0.1)
+Contact me at: **aayala32@illinois.edu**
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
