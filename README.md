@@ -26,20 +26,6 @@ I study at the University of Illinois, currently majoring in Computer Science an
 :
 Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea. 
 
-if(interested in contacting me) {
--find me on [facebook](https://www.facebook.com/andreagugu.ayala)
-or
--email be as shown below
-}
-
-Contact me at: **aayala32@illinois.edu**
+Contact me at: **aayala32@illinois.edu** or find me on [facebook](https://www.facebook.com/andreagugu.ayala)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aayala32/aayala32.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
