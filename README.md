@@ -1,10 +1,10 @@
-]# Hi, I'm Andrea Ayala. Welcome to my page!
+ Hi, I'm Andrea Ayala. Welcome to my page!
 
 Check out how active I am on [Github](https://github.com/aayala32)! 
 
 ### About ME
 
-I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business. 
+I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time!
 
 1st Semester Course Involvement | 2nd Semester Course Involvement
 ------------ | -------------
