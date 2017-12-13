@@ -1,4 +1,4 @@
- Hi, I'm Andrea Ayala. Welcome to my page!
+Hi, I'm Andrea Ayala. Welcome to my page!
 
 Check out how active I am on [Github](https://github.com/aayala32)! 
 
@@ -23,6 +23,7 @@ I study at the University of Illinois, currently majoring in Computer Science an
 5. [MACS 101](http://catalog.illinois.edu/courses-of-instruction/macs/)
 
 **My Goals**
+:
 Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea. 
 
 
