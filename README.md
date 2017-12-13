@@ -5,7 +5,7 @@ Check out how active I am on [Github](https://github.com/aayala32)!
 ### About ME
 
 I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business. 
-```markdown
+
 1st Semester Course Involvement | 2nd Semester Course Involvement
 ------------ | -------------
 [CS 125](https://cs125.cs.illinois.edu/)      | [STATS 200](http://catalog.illinois.edu/courses-of-instruction/stat/)
@@ -22,7 +22,7 @@ Music 130 | ANSC 110
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
