@@ -4,7 +4,7 @@ Check out how active I am on [Github](https://github.com/aayala32)!
 
 ### About ME
 
-I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time! Side note: This page is new so I'll add more with time.
+I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time! Side note: This page is new so I do hope to add some of my work and things that will help you get to know my abilities better.
 
 **1st Semester Course Involvement** 
 :
@@ -27,5 +27,3 @@ I study at the University of Illinois, currently majoring in Computer Science an
 Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea of what I want to do. 
 
 Contact me at: **aayala32@illinois.edu** or message me on [facebook](https://www.facebook.com/andreagugu.ayala)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
