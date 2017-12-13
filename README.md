@@ -6,12 +6,13 @@ Check out how active I am on [Github](https://github.com/aayala32)!
 
 I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business. 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+1st Semester Course Involvement | 2nd Semester Course Involvement
+------------ | -------------
+CS 125 | STATS 200
+Math 221 | Math 231
+Psych 100 | RHET 105
+Music 130 | ANSC 110
+| MACS 101
 - Bulleted
 - List
 
