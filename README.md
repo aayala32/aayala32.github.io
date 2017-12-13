@@ -2,7 +2,7 @@ Hi, I'm Andrea Ayala. Welcome to my page!
 
 ### About ME
 
-I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time! Side note: This page is new so I do hope to add some of my work and things that will help you get to know my abilities better.
+I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time! Side note: This page is new so I do hope to add some of my work and things that will help you get to know what I'm capable of.
 
 **1st Semester Course Involvement** 
 :
