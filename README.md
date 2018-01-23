@@ -2,7 +2,7 @@ Hi, I'm Andrea Ayala. Welcome to my page!
 
 ### About ME
 
-I study at the University of Illinois, currently majoring in Computer Science and Mathematics. Though I do enjoy my major, I intend on switching to Statistics with a minor in Business... Lets hope I graduate on time! Side note: This page is new so I do hope to add some of my work and things that will help you get to know what I'm capable of.
+I study at the University of Illinois at Urbana-Champaign, currently majoring in Computer Science and Mathematics. I plan on minoring in Business as soon as I get all of my prerequisites complete. I am experienced in programming in Java. During my free time, I find myself with  friends, putting together 2000 piece jigsaw puzzles, and coding just for the fun of it. Side note: This page is new so I do hope to add some of my work and things that will help you get to know what I'm capable of. 
 
 **1st Semester Course Involvement** 
 :
@@ -22,8 +22,9 @@ I study at the University of Illinois, currently majoring in Computer Science an
 
 **My Goals**
 :
-Currently making a switch into Statistics with a minor in Business, I intend on going into the business field. I am not sure exactly where but do plan on applying for internships soon to get a better idea of what I want to do. 
+With a major in Mathematics and Computer Science as well as a minor in Business, I currently intend on going into the business/technology field. I am not sure exactly where but do plan on applying for internships soon to get a better idea of what I want to do in the future. 
 
 Check out how active I am on [Github](https://github.com/aayala32)!
 
+Need Help with your computer science or calculus homework? 
 Contact me at: **aayala32@illinois.edu** or message me on [facebook](https://www.facebook.com/andreagugu.ayala)
