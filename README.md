@@ -12,6 +12,10 @@ I study at the University of Illinois at Urbana-Champaign, currently majoring in
 4. [Music 130](https://courses.illinois.edu/search/schedule/2015/summer/MUS/130) 
 5. [LAS 101](http://www.las.illinois.edu/students/lifecareerdesign/classes/las101/)   
 
+**Winter Course**
+:
+1. [ECON 102](http://online.illinois.edu/online-courses/course-section?termcode=120180&crn=10019&ref=ocs)
+
 **2nd Semester Course Involvement**
 :
 1. [STATS 200](http://catalog.illinois.edu/courses-of-instruction/stat/)
@@ -26,5 +30,5 @@ With a major in Mathematics and Computer Science as well as a minor in Business,
 
 Check out how active I am on [Github](https://github.com/aayala32)!
 
-Need Help with your computer science or calculus homework? 
-Contact me at: **aayala32@illinois.edu** or message me on [facebook](https://www.facebook.com/andreagugu.ayala)
+Need help with your computer science or calculus homework? 
+Contact me at: **aayala32@illinois.edu** or message me on [Facebook](https://www.facebook.com/andreagugu.ayala)
