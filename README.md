@@ -24,10 +24,10 @@ I study at the University of Illinois at Urbana-Champaign, currently majoring in
 4. [ANSC 110](http://catalog.illinois.edu/courses-of-instruction/ansc/)
 5. [IB 108](http://catalog.illinois.edu/courses-of-instruction/ib/)
 
-**Fall 2018*
+**Fall 2018**
 :
-1. [CS 126]
-2. [CS 173]
+1. [CS 126](https://cs.illinois.edu/courses/profile/CS126)
+2. [CS 173](https://cs.illinois.edu/courses/profile/CS173)
 3. [MATH 241]
 4. [PHYS 211]
 5. [SPAN 141]
